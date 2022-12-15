@@ -43,8 +43,8 @@
     "utils-merge": "1.x.x"
   },
   "peerDependencies": {
-    "oauth": ">=0.10.0",
-  }
+    "oauth": ">=0.10.0"
+  },
   "devDependencies": {
     "make-node": "0.4.6",
     "mocha": "2.x.x",
